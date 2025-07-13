@@ -1,0 +1,547 @@
+{
+
+    "search": {
+      "options": "search options",
+    "title": "Search",
+    "term": "Search Term:",
+    "placeholder": "Search...",
+    "type": "Type:",
+    "sale": "Sale",
+    "offer": "Offer",
+    "sort": "Sort:",
+    "price_high_low": "Price high to low",
+    "price_low_high": "Price low to high",
+    "latest": "Latest",
+    "oldest": "Oldest",
+    "listing_results": "Listing results:",
+    "no_listing": "No listing found!",
+    "loading": "Loading...",
+    "show_more": "Show more"
+  },
+
+
+  "language": {
+    "arabic": "Arabic",
+    "english": "English"
+  },
+
+
+  "dashboard": {
+    "title": "Dashboard",
+    "signout": "Sign out",
+
+    "post": {
+      "name": "Post"
+    },
+
+    "users": {
+      "name": "Users",
+      "total": "Total Users",
+      "recent": "Recent Users",
+
+      "image": "User Image",
+      "username": "Username",
+      "email": "Email",
+      "admin": "Admin",
+      "doctor": "Doctor",
+      "promote": "Promote ",
+      "demote": "Demote",
+      "date": "Date Created",
+      "delete": "Delete",
+      "more": "Show More",
+      "no_users": "You Have No Users Yet !",
+      "delete?": "Are you sure you want to delete this user ?",
+      "sure_to": "Are you sure you want to ",
+      "this": "this user?",
+      "sure_delete": "Yes, I’m sure",
+      "no_cancel": "No, cancel",
+
+      "error": "Error fetching users:",
+      "error_more": "Error fetching more users:",
+      "single_error": "Error :",
+
+      "unkown": "Unkown"
+    },
+
+    "comments": {
+      "date": "Date Updated",
+      "content": "Comment Content",
+      "no_of_likes": "Number of likes",
+      "post_id": "Post Id",
+      "user_id": "User Id",
+      "delete": "Delete",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit",
+
+      "anonymous": "Anonymous User",
+
+      "no_comment": "You have no comments yet!",
+      "likes": "Likes",
+      "name": "Comments",
+      "total": "Total comments",
+      "recent": "Recent comments",
+      "error": "Error fetching comments:",
+      "error_more": "Error fetching more comments:",
+      "error_delete": "Error deleting comment:",
+      "more": "Show More",
+      "empty": "You have no comments yet!",
+      "delete?": "Are you sure you want to delete this comment ?",
+      "sure_delete": "Yes, I’m sure",
+      "no_cancel": "No, cancel",
+
+      "unkown": "Unkown"
+    },
+
+    "posts": {
+      "name": "Posts",
+      "date": "Date Updated",
+      "image": "Post  Image",
+      "title": "Post Title",
+      "category": "Category",
+      "delete": "Delete",
+      "edit": "Edit",
+
+      "total": "Total posts",
+      "recent": "Recent posts",
+
+      "error": "Error fetching posts:",
+      "error_more": "Error fetching more posts:",
+      "unkown": "Unkown",
+      "delete_error": "Error deleting post:",
+      "more": "Show More",
+      "no_posts": "You Have No Posts Yet !",
+      "delete?": "Are you sure you want to delete this post?",
+      "sure_delete": "Yes, I’m sure",
+      "no_cancel": "No, cancel"
+    },
+
+    "profile": {
+      "name": "Profile",
+      "updating": "Updating...",
+      "update": "Update",
+      "failed_update": "Update failed.",
+      "delete": "Delete Account",
+      "signout": "Sign out",
+      "admin": "Admin",
+      "user": "User"
+    },
+
+    "table": {
+      "all": "See all",
+      "error": "Error fetching dashboard data:"
+    },
+
+    "card": {
+      "last": "Last Month",
+      "all": "See all",
+      "error": "Error fetching dashboard data:",
+      "unkown": "Unkown"
+    }
+  },
+
+  "general": {
+    "loading": "Loading...",
+    "error": "Error: "
+  },
+
+  "verify": {
+    "fill_all": "Please fill in all required fields.",
+    "failed": "Verification failed.",
+    "coclinic": "CoClinic",
+    "email_confirmation_code": "Please enter the email and confirmation code you received to verify your account.",
+    "email": "Email",
+    "email_placeholder": "you@example.com",
+    "confirmation_code": "Confirmation Code",
+    "confirmation_code_placeholder": "Enter the code sent to your email",
+    "verify_email": "Verify Email",
+    "success": "Your email has been verified. You can now log in."
+  },
+
+  "header": {
+    "find": "Find Doctors, Services ...",
+    "home": "Home",
+    "ai_chat": "AI Chat",
+    "live_chat": "Live Chat",
+    "appointments": "Appointments",
+    "resources": "Resource",
+    "about": "About",
+    "co": "Co",
+    "clinic": "Clinic",
+    "slogan": "Compassionate Care, Anytime",
+    "my_profile": "My Profile",
+    "settings": "Settings",
+    "account_settings": "Account Settings",
+    "sign_out": "Sign Out",
+    "sign_up": "Sign Up",
+    "sign_in": "Sign In",
+    "dashboard": "Dashboard"
+  },
+
+  "home": {
+    "patient_served": "500k+ Patients Served",
+    "join_growing": "Join our growing community",
+
+    "headline": "Your Trusted Partner in",
+    "digital": "Digital Healthcare",
+    "description": "Experience compassionate care through our integrated platform offering direct doctor communication, AI-powered consultations, and seamless healthcare management.",
+    "get_started": "Get Started",
+    "learn_more": "Learn More",
+    "hipaa": "HIPAA Compliant",
+    "rated": "5-Star Rated Service"
+  },
+
+  "featured": {
+    "title": "Comprehensive Support for Your",
+    "r_journey": " Recovery Journey",
+    "description": "Empower your recovery with our integrated suite of support tools and resources, designed by healthcare professionals.",
+    "ai_assistant": {
+      "title": "AI Assistant",
+      "description": "Get 24/7 support with our AI Assistant and experience seamless conversational interaction.",
+      "benefits": "Enhance your user experience with instant responses and personalized assistance.",
+      "cta": "Chat With AI"
+    },
+    "get_doctor": {
+      "title": "Get a Doctor",
+      "description": "Search, book, and rate therapists to find the right support for your recovery journey.",
+      "benefits": "Access personalized therapy options and foster a meaningful therapeutic relationship.",
+      "cta": "Find A doctor"
+    },
+    "resources": {
+      "title": "Educational Resources",
+      "description": "Access a comprehensive library of articles, videos, and materials on addiction recovery.",
+      "benefits": "Expand your knowledge and gain insights to support your recovery journey."
+    },
+    "recovery": {
+      "title": "Personalized Recovery",
+      "description": "Customize your recovery journey based on individual assessments and needs.",
+      "benefits": "Receive personalized recovery plans and support to achieve long-term wellness.",
+      "cta": "View Recovery Plan"
+    },
+    "tracker": {
+      "title": "Habit Tracker",
+      "description": "Monitor habits, identify triggers, and track progress to maintain positive behaviors.",
+      "benefits": "Set goals and see improvement in daily habits to support your recovery goals.",
+      "cta": "View Habit Tracker"
+    },
+    "quotes": {
+      "title": "Inspirational Quotes",
+      "description": "\"The journey of a thousand miles begins with a single step.\"",
+      "cta": "Explore More Quotes",
+      "benefits": "Find motivation and encouragement to stay strong on your journey to recovery."
+    },
+    "coming_soon": {
+      "title": "Coming Soon: Enhanced Support Features",
+      "description": "We're constantly evolving to better serve your recovery needs",
+      "dashboard": {
+        "title": "Dashboard",
+        "description": "Track your progress, set goals, and visualize data for continuous improvement.",
+        "benefits": "Monitor trends and celebrate achievements along your journey to recovery.",
+        "cta": "View Dashboard",
+        "soon": "Coming Soon"
+      },
+      "community": {
+        "title": "Community Support",
+        "description": "Connect with others on a similar journey, share experiences, and find encouragement.",
+        "benefits": "Build a supportive network and access resources that inspire growth and recovery.",
+        "cta": "Join The Community"
+      },
+      "crisis": {
+        "title": "Crisis Support",
+        "description": "Access emergency contact options and immediate chat support with licensed counselors.",
+        "benefits": "Receive compassionate assistance and guidance during critical times.",
+        "cta": "Contact Crisis Support"
+      }
+    }
+  },
+
+  "appointment": {
+    "confirmation": {
+      "status_updated": "Status updated successfully",
+      "status_failed": "Status update failed",
+      "app_cancelled": "Appointment cancelled",
+      "app_failed": "Appointment failed",
+      "loading": "Loading appointments...",
+      "upcoming": "Upcoming Appointments",
+      "no_appointments": "No appointments found",
+      "time": "30 minutes",
+      "my": "My Appointments",
+      "your": "Your Appointments",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "decline": "Decline",
+
+      "success": "Appointment loaded successfully",
+      "not_found": "Appointment not found",
+      "failed": "Failed to fetch appointment",
+      "title": "Appointment Confirmed!",
+      "with": "Your appointment with",
+      "date": "Date & Time",
+      "duration": "Duration",
+      "notes": "Notes",
+      "status": "Status",
+      "view_appointments": "View All Appointments"
+    },
+
+    "form": {
+      "success": "Appointment booked successfully!",
+      "failed": "Booking failed",
+      "sucess_update": "Status updated successfully",
+      "cancelled": "cancelled",
+      "loading": "Loading appointments...",
+      "new": "Book New Appointment",
+      "doctor": "Doctor",
+      "date&time": "Date & Time",
+      "notes": "Notes",
+      "confirm": "Confirm Booking",
+      "upcoming": "Upcoming Appointments",
+      "no_appointments": "No appointments found",
+      "cancel": "Cancel",
+      "single_confirm": "Confirm",
+      "decline": "Decline",
+      "hide": "Hide Booking Form",
+      "book": "Book New Appointment"
+    },
+
+    "general": {
+      "date": "Date :",
+      "from": "From :",
+      "note": "Note :",
+      "to": "To :",
+      "mine": "My Appointments"
+    },
+
+    "status": {
+      "completed": "completed",
+      "confirmed": "confirmed",
+      "cancelled": "cancelled",
+      "pending": "pending"
+    },
+
+    "patient": {
+      "cancel_consultaion": "Cancell Consultation",
+      "consultation": "Patient Consultation"
+    },
+
+    "book": {
+      "form": "Book New Appointment",
+      "hide_form": "Hide Booking Form",
+      "appointment_1": "Book an Appointment",
+      "select_doctor": "Select Doctor",
+      "loading": "Loading doctors...",
+      "please_select": "Please select a doctor",
+      "date_time": "Date and Time",
+      "notes": "Notes",
+      "appointment_2": "Book Appointment"
+    }
+  },
+
+  "book": {
+    "loading": "Loading...",
+    "wrong": "Something went wrong!",
+    "copied": "Link copied!",
+    "off": "OFF",
+    "description": "Description"
+  },
+
+  "books": {
+    "post_book": "Post Book",
+
+    "allowed_only": "Only JPEG, JPG, PNG, or GIF files up to 5MB are allowed",
+    "number_of_allowed": "You can only upload up to 5 images per listing",
+    "at_least": "You must upload at least one image",
+    "lower_or_equal": "Discount price must be lower than regular price",
+    "created": "Book created successfully",
+    "failed_to_create": "Failed to create book. Please try again.",
+
+    "create": "Post a Book",
+    "title": "Title",
+    "description": "Description",
+
+    "author": "Author",
+
+    "offer": "Offer",
+    "regular_price": "Regular price",
+    "discounted_price": "Discounted price",
+
+    "images": "Images:",
+    "first_image": "The first image will be the cover",
+    "uploaded_images": "Uploaded Images:",
+
+    "delete": "Delete",
+    "select_images": "Selected Images:",
+    "remove": "Remove",
+    "creating": "Creating...",
+
+    "explore": "Explore Our Book Collection",
+    "discover": "Discover hand-picked titles at unbeatable deals. Whether you're seeking inspiration or adventure, find your next favorite book here.",
+    "browse": "Start Browsing",
+    "today_offer": "Today’s Special Offers",
+    "loading": "Loading offers...",
+    "featured": "Featured Books",
+    "more": "View More",
+    "join_community": "Join Our Reading Community",
+    "subscribe_benefits": "Subscribe for updates on new arrivals, author talks, and exclusive discounts.",
+    "subscribe_now": "Subscribe Now",
+    "failed": "Failed to post comment.",
+    "error": "An error occurred while posting the comment.",
+
+    "comment": {
+      "failed": "Failed to fetch comments:",
+      "error": "Error fetching comments:",
+      "length": "Comment chars must be between 1 and 200 characters.",
+      "name": "Comments",
+      "as": "Signed in as:",
+      "must": "You must be signed in to comment.",
+      "sign": "Sign In",
+      "no_comments": "No comments yet!",
+      "sure": "Are you sure you want to delete this comment?",
+      "yes": "Yes, I’m sure",
+      "no": "No, cancel",
+      "error_like": "Error liking comment:",
+      "error_delete": "Error deleting comment:",
+      "submit": "Submit",
+      "submitting": "Submitting",
+      "unkown": "Unkown",
+      "chars_remaining": "characters remaining"
+    }
+  },
+
+  "live_chat": {
+    "live": "Live Chat",
+    "explore": "Explore users to start a conversation with.",
+    "image": "Image",
+    "video": "Video",
+    "add": "Add Friend",
+    "chat": "Chat",
+    "loading": "Loading...",
+    "online": "Online",
+    "offline": "Offline",
+    "no_user": "No user found!",
+    "search": "Search user by name, email....",
+    "type_here": "Type message here..."
+  },
+
+  "profile": {
+    "profile": "Profile",
+    "username": "username",
+    "email": "email",
+    "password": "password",
+    "update": "Update",
+    "delete": "Delete Account",
+    "signout": "Sign out",
+    "please_select": "Please select a valid image file.",
+    "update_fialed": "Update failed.",
+    "loading": "Loading..."
+  },
+
+  "about": {
+    "co": "About CoClinic",
+    "description1": "CoClinic is an innovative telehealth platform designed to provide seamless healthcare services through live consultations and interactive AI support. We focus on enhancing the patient experience by offering multiple avenues for interaction, including direct communication with doctors and AI-based chatbots for preliminary consultations.",
+    "description2": "Our mission is to bridge the gap between patients and healthcare professionals, making healthcare accessible and convenient for everyone. Whether you need a quick consultation or in-depth medical advice, CoClinic is here to support you at every step."
+  },
+
+  "signin": {
+    "fields_error": "All fields are required!",
+    "email_error": "Please enter a valid email address!",
+    "password_length": "Password must be at least 8 characters!",
+    "login_falied": "Login failed.",
+    "singin_sucess": "Signed in successfully!",
+    "something_wrong": "Something went wrong.",
+
+    "coclinic": "CoClinic",
+    "headline": "Welcome back! Please sign in to access your account.",
+    "email": "Email",
+    "email_placeholder": "name@example.com",
+    "password": "Password",
+    "password_placeholder": "Enter Your Password",
+    "button": "Sign In",
+
+    "loading": "Signing In ...",
+    "no_account": "Don't have an account?",
+    "here": "Sign up here"
+  },
+
+  "signup": {
+    "fill_all1": "Please fill in all the fields before submitting.",
+    "fill_all2": "Please fill in all required fields.",
+    "loading": "Signing Up ...",
+    "registering_error": "Registration failed.",
+    "registering_sucess": "Registration successful! Please verify your email.",
+    "specialization": "Specialization",
+    "specialization_description": "Enter your medical specialization.",
+
+    "admin_code": "Admin Code",
+    "admin_code_description": "Enter the admin verification code.",
+    "name_description": "What is your full name ?",
+    "password_description": "Enter a strong password to secure your account.",
+    "birthdate_description": "Select your birthdate.",
+    "gender_description": "What is your gender?",
+    "gender": "Gender",
+    "select": "Select",
+    "go_login": "Go To Login",
+
+    "gender_options": {
+      "male": "Male",
+      "female": "Female"
+    },
+
+    "coclinic": "CoClinic",
+    "headline": "Embark on a transformative journey with our AI-powered personalized recovery plans and habit-building strategies.",
+    "select_role": "Select Role",
+    "role": {
+      "patient": "Patient",
+      "doctor": "Doctor",
+      "admin": "Admin"
+    },
+    "username": "Username",
+    "username_description": "Please enter a unique username for your account.",
+    "email": "Email",
+    "email_description": "Please enter a valid email address, e.g., name@domain.com.",
+    "name": "Name",
+    "password": "Password",
+    "birthdate": "Birthdate",
+    "select_b_date": "Select Birthdate",
+    "button": "Sign Up"
+  },
+
+
+
+  "chat": {
+    "medical": "Medical Assistant",
+    "expected": "Expected data.data to be an array:",
+    "error_history": "Error loading chat history:Error loading chat history:",
+    "error_parsing": "Error parsing chunk:",
+    "chat_error": "Chat error:",
+
+    "how_to_help": "Hello! How can I help you today?",
+    "here_to_answer": "I'm here to answer your medical questions with care and expertise",
+    "educational_puroses": "Information provided for educational purposes only, not medical advice",
+    "assistant": "Medical Assistant",
+    "new": "New Chat",
+    "powerd_by": "Powered by Gemini - Trusted Medical Answers",
+    "type_here": "Type your message here..."
+  },
+
+  "footer": {
+    "brand": "CoClinic Care",
+    "description": "Committed to providing compassionate, personalized healthcare that puts you first. Your wellness journey is our priority, every step of the way.",
+    "services": "Services",
+    "your_email": "Your email",
+    "appointments": "Appointments",
+    "ai_consultation": "AI Consultation",
+    "emergency_chat": "Emergency Chat",
+    "recovery_plans": "Recovery Plans",
+    "contact_us": "Contact Us",
+    "address": "123 Health Lane, Care City, CA 98765",
+    "phone": "(555) 123-4567",
+    "email": "care@coclinic.com",
+    "health_tips": "Health Tips",
+    "subscribe_prompt": "Subscribe to our newsletter for wellness advice and updates",
+    "subscribe": "Subscribe",
+    "copyright": "© 2024 CoClinic - Compassionate Care for All",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "cookies_policy": "Cookies Policy"
+  }
+}

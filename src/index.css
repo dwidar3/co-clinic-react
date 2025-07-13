@@ -1,0 +1,80 @@
+/* @import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+    
+body{
+    background-color: rgb(243, 243, 243);
+}   
+
+
+
+.arabic-font {
+  font-family: 'Cairo', sans-serif;
+  font-size: 17px;
+}
+
+.english-font {
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+} */
+
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+  font-family: 'Abel', 'Cairo', sans-serif;
+  background-color: #f8fafc;
+}
+
+.blinking-cursor::after {
+  content: "|";
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Smooth chat scroll */
+.chat-container {
+  scroll-behavior: smooth;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+.sidebar-custom .bg-gray-800 {
+  background-color: #9ca3af !important;
+}
+
+.sidebar-custom .h-full,
+.sidebar-custom .w-full,
+.sidebar-custom {
+  background-color: #f2f2f2 !important;
+}
+
+.grayhover :hover {
+  background-color: rgb(218, 218, 218);
+}
+
+.chat-background {
+  background-image: url('/livechat.jpg');
+  background-size: cover;
+  background-position: center;
+}
